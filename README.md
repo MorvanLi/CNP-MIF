@@ -17,7 +17,7 @@ In 'main.m' file, you can run the code.
 
 ![framework](figures/framework.jpg)
 
-If you have any question about this code, feel free to reach me(morvanli@foxmail.com) 
+If you have any question about this code, feel free to reach me(morvanli1995@gmail.com) 
 
 ## Experiments
 
